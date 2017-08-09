@@ -12,7 +12,7 @@ path='/home/docker/mongo/'
 name='is-mongo'
 
 # Image name
-image='mongo'
+image='intelligsystems/nginx-mongo'
 
 # Database files location
 data='data:/data/db'
